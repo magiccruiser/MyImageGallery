@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp3</string>
+    <string name="content_description">content description</string>
+    <string name="view_gallery">View Gallery</string>
+</resources>
